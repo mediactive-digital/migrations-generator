@@ -10,14 +10,14 @@ Generate Laravel Migrations from an existing database, including indexes and for
 
 ## Upgrading to Laravel 5.4
 
-Please note that the Laravel 4 Generator edits have been moved to `https://github.com/xethron/Laravel-4-Generators.git` to update compatibility.
+Please note that the Laravel 4 Generator edits have been moved to `https://github.com/mediactive-digital/Laravel-4-Generators.git` to update compatibility.
 
 ## Laravel 5 installation
 
 The recommended way to install this is through composer:
 
 ```bash
-composer require --dev "xethron/migrations-generator"
+composer require --dev "mediactive-digital/migrations-generator"
 ```
 
 In Laravel 5.5 the service providers will automatically get registered. 
@@ -50,7 +50,7 @@ Notes:
 Run the following composer command:
 
 ```bash
-composer require --dev "xethron/migrations-generator:~1.3.0"
+composer require --dev "mediactive-digital/migrations-generator:~1.3.0"
 ```
 
 Next, add the following service providers:
