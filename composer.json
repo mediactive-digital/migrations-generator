@@ -7,10 +7,10 @@
 		"name": "Mediactive Digital"
 	}],
 	"require": {
-		"php": ">=5.4.0",
-		"illuminate/support": "~6.0",
-		"mediactive-digital/laravel-4-generators": "~3.1.0",
-		"doctrine/dbal": "~2.4"
+		"php": "^8.2",
+		"illuminate/support": "^10",
+		"mediactive-digital/laravel-4-generators": "^3.1.2",
+		"doctrine/dbal": "^3.6"
 	},
 	"autoload": {
 		"psr-0": {
@@ -18,10 +18,10 @@
 		}
 	},
 	"require-dev": {
-		"phpunit/phpunit": ">=4.0.0",
-		"mockery/mockery": ">=0.9.0",
-		"illuminate/cache": ">=4.1.0",
-		"illuminate/console": ">=4.1.0"
+		"phpunit/phpunit": "*",
+		"mockery/mockery": "*",
+		"illuminate/cache": "^10",
+		"illuminate/console": "^10"
 	},
 	"extra": {
 		"laravel": {
