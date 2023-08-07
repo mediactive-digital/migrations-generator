@@ -9,7 +9,7 @@
 	"require": {
 		"php": "^8.2",
 		"illuminate/support": "^10",
-		"mediactive-digital/laravel-4-generators": "^3.1.2",
+		"mediactive-digital/laravel-4-generators": "dev-L10@dev",
 		"doctrine/dbal": "^3.6"
 	},
 	"autoload": {
