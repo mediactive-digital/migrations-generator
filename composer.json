@@ -8,8 +8,8 @@
 	}],
 	"require": {
 		"php": "^8.2",
-		"illuminate/support": "^10",
-		"mediactive-digital/laravel-4-generators": "dev-L10",
+		"illuminate/support": "^11",
+		"mediactive-digital/laravel-4-generators": "dev-L11",
 		"doctrine/dbal": "^3.6"
 	},
 	"autoload": {
@@ -20,8 +20,8 @@
 	"require-dev": {
 		"phpunit/phpunit": "*",
 		"mockery/mockery": "*",
-		"illuminate/cache": "^10",
-		"illuminate/console": "^10"
+		"illuminate/cache": "^11",
+		"illuminate/console": "^11"
 	},
 	"extra": {
 		"laravel": {
